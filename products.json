@@ -1,0 +1,95 @@
+{
+
+	"products": [
+		{
+			"sku": "000001",
+			"name": "BV Lean leather ankle boots",
+			"category": "boots",
+			"price": 89000
+		},
+		{
+			"sku": "000002",
+			"name": "BV Lean leather ankle boots",
+			"category": "boots",
+			"price": 99000
+		},
+		{
+			"sku": "000003",
+			"name": "Ashlington leather ankle boots",
+			"category": "boots",
+			"price": 71000
+		},
+		{
+			"sku": "000004",
+			"name": "Naima embellished suede sandals",
+			"category": "sandals",
+			"price": 79500
+		},
+		{
+			"sku": "000005",
+			"name": "Nathane leather sneakers",
+			"category": "sneakers",
+			"price": 59000
+		},
+		{
+            "sku": "000006",
+            "name": "Billie leather knee-high boots",
+            "category": "boots",
+            "price": 183000
+        },
+        {
+            "sku": "000007",
+            "name": "Shearling-lined leather Chelsea boots",
+            "category": "boots",
+            "price": 120000
+        },
+        {
+            "sku": "000008",
+            "name": "Postcard Lantern printed minidress",
+            "category": "dresses",
+            "price": 85000
+        },
+		{
+            "sku": "000009",
+            "name": "Victoria cotton minidress",
+            "category": "dresses",
+            "price": 26500
+        },
+        {
+            "sku": "000010",
+            "name": "Tropicana floral linen minidress",
+            "category": "dresses",
+            "price": 63900
+        },
+        {
+            "sku": "000011",
+            "name": "Pleated silk-blend halterneck minidress",
+            "category": "dresses",
+            "price": 142900
+        },
+		{
+            "sku": "000012",
+            "name": "Leather ankle boots",
+            "category": "boots",
+            "price": 75500
+        },
+		{
+            "sku": "000013",
+            "name": "Loftgrip rubber rain boots",
+            "category": "boots",
+            "price": 33500
+        },
+		{
+            "sku": "000014",
+            "name": "Kurtys leather knee-high boots",
+            "category": "boots",
+            "price": 83900
+        },
+		{
+            "sku": "000015",
+            "name": "Leather Chelsea boots",
+            "category": "boots",
+            "price": 31900
+        }
+	]
+}
