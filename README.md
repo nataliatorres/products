@@ -2,13 +2,13 @@
 # Hi & welcome! 👋
 
 
-This project intends to to solve the challenge of providing a single GET endpoint to get 
+This project intends to solve the challenge of providing a single GET endpoint to get 
 a list of products. This list could also be filtered by query parameters.
 
 
 ## Things to consider
 
-My PHP version is 7.4.16 and for this project I used the PHP built-in Web Server. \
+I used PHPStorm for the development, my PHP version is 7.4.16 and for this project I used the PHP built-in Web Server. \
 To perform the tests, I'm using PHPUnit.
 
 
@@ -32,7 +32,7 @@ To perform the tests, I'm using PHPUnit.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nataliatorres/products
 ```
 
 Go to the project directory
